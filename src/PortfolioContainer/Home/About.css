@@ -1,0 +1,12 @@
+.abt-title {
+  text-align: center;
+  font-family: "Courier New", Courier, monospace;
+  color: #0080fe;
+}
+.abt-description {
+  width: 80%;
+  text-align: center;
+  margin: 30px auto 30px auto;
+  font-size: 19px;
+  font-family: "Poppins Light";
+}

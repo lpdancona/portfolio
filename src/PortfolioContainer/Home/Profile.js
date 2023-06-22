@@ -12,16 +12,13 @@ export default function Profile() {
                 <i className="fa fa-facebook-square"></i>
               </a>
               <a href="#">
-                <i className="fa fa-google-plus-square"></i>
-              </a>
-              <a href="#">
                 <i className="fa fa-instagram"></i>
               </a>
               <a href="#">
-                <i className="fa fa-youtube-square"></i>
+                <i className="fa fa-github"></i>
               </a>
               <a href="#">
-                <i className="fa fa-twitter"></i>
+                <i className="fa fa-linkedin-square"></i>
               </a>
             </div>
           </div>
@@ -53,14 +50,14 @@ export default function Profile() {
               </h1>
               <span className="profile-role-tagline">
                 Passionate for building Full-Stack applications that make our
-                lifes easier.
+                lives easier.
               </span>
             </span>
           </div>
           <div className="profile-options">
             <button className="btn primary-btn">
               {""}
-              Hire Me{" "}
+              Projects{" "}
             </button>
             <a href="Leonardo.pdf" download="Leonardo Leonardo.pdf">
               <button className="btn highlighted-btn">Get Resume</button>

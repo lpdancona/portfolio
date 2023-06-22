@@ -18,3 +18,11 @@
   --toast-success: #0cbfae;
   --loader-color: #0cbfae;
 }
+.App {
+  width: 100%;
+  height: auto;
+  display: flex;
+  flex-direction: column;
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: #f0f0f0;
+}
