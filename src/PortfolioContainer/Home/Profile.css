@@ -78,3 +78,8 @@
 .fa i:hover {
   transform: scale(1.5);
 }
+@media only screen and (max-width: 1100px) {
+  .profile-picture {
+    display: none;
+  }
+}

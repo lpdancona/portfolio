@@ -57,7 +57,7 @@ export default function Profile() {
           <div className="profile-options">
             <button className="btn primary-btn">
               {""}
-              Projects{" "}
+              Contact-me{" "}
             </button>
             <a href="Leonardo.pdf" download="Leonardo Leonardo.pdf">
               <button className="btn highlighted-btn">Get Resume</button>

@@ -1,0 +1,14 @@
+.skills {
+  width: 90%;
+  margin: auto;
+  display: flex;
+  justify-content: space-evenly;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+.skills-left {
+  width: 50%;
+}
+.skills-right {
+  width: 50%;
+}
